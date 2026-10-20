@@ -70,7 +70,7 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
   <a href="https://x.com/medal_mtrx1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
   </a>
-  <a href="https://github.com/RealMtrxtab=followers" target="_blank">
+  <a href="https://github.com/RealMtrx?tab=followers" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/github/followers/mrvirusdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" height="35"/>
   </a>
   <a href="https://github.com/RealMtrx?tab=repositories&sort=stargazers" target="_blank">

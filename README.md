@@ -64,19 +64,19 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 <div align="center">
 
-  <a href="https://discord.gg/AkG5qQuTtg" target="_blank">
+  <a href="https://discord.gg/F3ZKBEC8Za" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
   </a>
   <a href="https://x.com/medal_mtrx1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
   </a>
-  <a href="https://github.com/mrvirusdev?tab=followers" target="_blank">
+  <a href="https://github.com/RealMtrxtab=followers" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/github/followers/mrvirusdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" height="35"/>
   </a>
-  <a href="https://github.com/Mtrx-Gxy?tab=repositories&sort=stargazers" target="_blank">
+  <a href="https://github.com/RealMtrx?tab=repositories&sort=stargazers" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/github/stars/mrvirusdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" height="35"/>
   </a>
-  <a href="https://medal-team.com" target="_blank">
+  <a href="https://mtrxdev.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
   </a>
 

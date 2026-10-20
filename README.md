@@ -40,12 +40,12 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RealMtrx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealMtrx&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RealMtrx&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealMtrx&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtrx-Gxy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtrx-Gxy&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 ---

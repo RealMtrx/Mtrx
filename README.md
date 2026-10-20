@@ -56,3 +56,13 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 |------------|----------------|---------------|
 | **Unifier System** | A modular architecture handling async data sync via RabbitMQ & DB pipelines | ASP.NET · RabbitMQ · SQL Server |
 | **Medal Panel** | Cloud-hosted Pter
+
+---
+### ⚡ Fun Quote
+
+> “Security is not a product, but a process.” — Bruce Schneier  
+> _Building for speed is easy. Building for security and scale — that’s real engineering._
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=github_dark&hideBorder=true" alt="Jokes Card" />
+</p>

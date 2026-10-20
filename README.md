@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://discord.com/users/1318549070188511253">
-    <img width="350" src="https://lanyard.cnrad.dev/api/1318549070188511253?bg=0d1117&borderRadius=12px&idleMessage=💤%20Just%20chillin'..." alt="Discord Presence" />
-  </a>
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1318549070188511253?bg=1e1e2e&borderRadius=20px&idleMessage=💤%20Just%20chillin'...)](https://discord.com/users/1318549070188511253)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mtrx+!;Full-Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />

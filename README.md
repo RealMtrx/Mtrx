@@ -1,4 +1,8 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1318549070188511253?bg=1e1e2e&borderRadius=20px&idleMessage=💤%20Just%20chillin'...)](https://discord.com/users/1318549070188511253)
+<div align="center">
+  <a href="https://discord.com/users/1318549070188511253">
+    <img width="350" src="https://lanyard.cnrad.dev/api/1318549070188511253?bg=1e1e2e&borderRadius=12px&idleMessage=💤%20Just%20chillin'..." alt="Discord Presence" />
+  </a>
+</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mtrx+!;Full-Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -45,7 +49,7 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtrx-Gxy&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealMtrx&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 ---
@@ -71,10 +75,10 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
   </a>
   <a href="https://github.com/RealMtrx?tab=followers" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/mrvirusdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" height="35"/>
+    <img src="https://custom-icon-badges.demolab.com/github/followers/RealMtrx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" height="35"/>
   </a>
   <a href="https://github.com/RealMtrx?tab=repositories&sort=stargazers" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/mrvirusdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" height="35"/>
+    <img src="https://custom-icon-badges.demolab.com/github/stars/RealMtrx?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" height="35"/>
   </a>
   <a href="https://mtrxdev.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
